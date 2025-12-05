@@ -1,1 +1,12 @@
-nothing:)
+Expense Tracker App
+A simple and efficient full-stack web application designed to split and track shared expenses among friends or groups. It automatically calculates who owes whom, making it easy to settle up.
+
+Features
+Dynamic User Management: Add and remove group members on the fly.
+Expense Logging: Easily log expenses with the payer, amount, and a short description.
+Automatic Calculations: The app instantly calculates individual balances and suggests the simplest way to settle debts.
+Clean UI: A responsive and user-friendly interface built with React.
+Tech Stack
+Frontend: React.js, Axios, CSS
+Backend: Node.js, Express.js
+Data Storage: In-memory storage (for educational purposes)
